@@ -13,5 +13,6 @@ from selenium import webdriver
 driver = webdriver.Chrome()
 driver.get("http://baidu.com")
 time.sleep(10)
+time.sleep(20)
 
 driver.quit()
