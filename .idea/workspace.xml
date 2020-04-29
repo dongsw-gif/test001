@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7738983d-5141-4ad3-9b0b-3bec1b0b13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.22">
+  <component name="RunManager" selected="Python.py01">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py-web" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,6 +76,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="py01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py03/py01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="py2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py-web" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.py01" />
         <item itemvalue="Python.22" />
         <item itemvalue="Python.py2" />
         <item itemvalue="Python.01" />
@@ -150,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588006763296</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="这是第一次提交">
+      <created>1588065970627</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588065970628</updated>
+    </task>
+    <task id="LOCAL-00005" summary="这是第一次提交">
+      <created>1588183637775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588183637776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,37 +197,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1588004555278" />
-    <state x="409" y="6" key="CommitChangelistDialog2" timestamp="1588006760792">
+    <state x="409" y="6" key="CommitChangelistDialog2" timestamp="1588183633878">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="409" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588006760792" />
+    <state x="409" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588183633878" />
     <state x="553" y="308" key="FileChooserDialogImpl" timestamp="1588007715944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="553" y="308" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588007715944" />
-    <state width="1537" height="218" key="GridCell.Tab.0.bottom" timestamp="1588065241223">
+    <state width="1537" height="218" key="GridCell.Tab.0.bottom" timestamp="1588182587108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588065241223" />
-    <state width="1537" height="218" key="GridCell.Tab.0.center" timestamp="1588065241222">
+    <state width="1537" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588182587108" />
+    <state width="1537" height="218" key="GridCell.Tab.0.center" timestamp="1588182587107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588065241222" />
-    <state width="1537" height="218" key="GridCell.Tab.0.left" timestamp="1588065241221">
+    <state width="1537" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588182587107" />
+    <state width="1537" height="218" key="GridCell.Tab.0.left" timestamp="1588182587106">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588065241221" />
-    <state width="1537" height="218" key="GridCell.Tab.0.right" timestamp="1588065241222">
+    <state width="1537" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588182587106" />
+    <state width="1537" height="218" key="GridCell.Tab.0.right" timestamp="1588182587107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588065241222" />
+    <state width="1537" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588182587107" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1588007580108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588007580108" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588009182515">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588183647164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588009182515" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588183647164" />
   </component>
 </project>
